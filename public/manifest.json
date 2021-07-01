@@ -1,8 +1,8 @@
 {
-  "name": "CodeChef Problem Page Prettifier",
+  "name": "CodeChef Zen Mode",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "CodeChef Problem Page Prettifier",
+  "description": "CodeChef Zen Mode",
   "icons": {
       "512": "logo512.png"
   },
