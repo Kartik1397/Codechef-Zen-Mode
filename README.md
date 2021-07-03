@@ -8,10 +8,13 @@ Extension for cleaner problem pages.
 
 ## Installation 
 
-Install my-project with npm
+Install dependency
 
 ```bash 
   npm install
+ ```
+ Create build
+ ```bash
   npm run build
 ```
 
